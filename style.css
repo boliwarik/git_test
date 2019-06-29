@@ -1,0 +1,14 @@
+table {
+    width: 80%;
+    margin: 10px auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid #777777;
+    height: 50px;
+    width: 33.33%;
+}
+.h200 {
+    height: 200px;
+}
